@@ -11,7 +11,4 @@ Essa ferramenta realiza a adição de contatos no LinkedIn de Forma automática!
 7. Aguarde os 60 segundos para que o programa inicie automáticamente
 8. Agora é só sair, ir tomar um café ou ir fazer qualquero outra coisa mais útil!
 
-# Onde posso aprender a criar uma automação como essa?
-Irei ensinar como criei essa automação nos próximos videos do canal https://www.youtube.com/c/DevAprender/
 
-# Quer aprender a criar automações como essa? Me manda uma mensagem no https://www.instagram.com/devaprender/ com a palavra "método" que te explico como posso te ajudar
